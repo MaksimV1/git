@@ -1,1 +1,1 @@
-print("hg")
+print("My first git-repo")
